@@ -1,0 +1,114 @@
+[
+    { 
+        "question" : "What is the capital of France?",
+        "options": ["A. Berlin", "B. Madrid", "C. Paris", "D. Rome"],
+        "answer": "C"
+    },
+
+    {
+        "question" : "What is the capital of Australia?",
+        "options" : ["A. Sydney", "B. Melbourne", "C. Canberra", "D. Brisbane"],
+        "answer" : "C"
+    },
+
+    {
+        "question" : "Who painted The Starry Night?",
+        "options" : ["A. Pablo Picasso", "B. Vincent van Gogh", "C. Leonardo da Vinci", "D. Claude Monet"],
+        "answer" : "B"
+    },
+
+    {
+        "question" : "What is the largest planet in our solar system?",
+        "options" : ["A. Earth", "B. Saturn", "C. Jupiter", "D. Mars"],
+        "answer" : "C"
+    },
+
+    {
+        "question" : "In which year did the First World War begin?",
+        "options" : ["A. 1912", "B. 1914", "C. 1916", "D. 1918"],
+        "answer" : "B"
+    },
+
+    {
+        "question" : "What is the chemical symbol for gold?",
+        "options" : ["A. Go", "B. Au", "C. Ag", "D. Gd"],
+        "answer" : "B"
+    },
+
+    {
+        "question" : "Who is known as the “Father of Computers”?",
+        "options" : ["A. Alan Turing", "B. Bill Gates", "C. Charles Babbage", "D. Steve Jobs"],
+        "answer" : "C"
+    },
+
+    {
+        "question" : "Which ocean is the largest?",
+        "options" : ["A. Atlantic Ocean", "B. Indian Ocean", "C. Arctic Ocean", "D. Pacific Ocean"],
+        "answer" : "D"
+    },
+
+    {
+        "question" : "Which country is home to the Great Pyramid of Giza?",
+        "options" : ["A. Mexico", "B. Peru", "C. Egypt", "D. India"],
+        "answer" : "C"
+    },
+
+    {
+        "question" : "Who wrote Romeo and Juliet?",
+        "options" : ["A. Charles Dickens", "B. William Shakespeare", "C. Jane Austen", "D. Mark Twain"],
+        "answer" : "B"
+    },
+    
+    {
+        "question": "What is the capital of Japan?",
+        "options": ["A. Beijing", "B. Seoul", "C. Tokyo", "D. Bangkok"],
+        "answer": "C"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["A. Venus", "B. Mars", "C. Jupiter", "D. Mercury"],
+        "answer": "B"
+    },
+    {
+        "question": "What is the largest mammal in the world?",
+        "options": ["A. Elephant", "B. Blue Whale", "C. Giraffe", "D. Orca"],
+        "answer": "B"
+    },
+    {
+        "question": "What is the boiling point of water?",
+        "options": ["A. 90°C", "B. 50°C", "C. 100°C", "D. 120°C"],
+        "answer": "C"
+    },
+    {
+        "question": "Which language is used to create websites?",
+        "options": ["A. HTML", "B. Python", "C. C++", "D. Java"],
+        "answer": "A"
+    },
+    {
+        "question": "What is the currency of the United Kingdom?",
+        "options": ["A. Euro", "B. Dollar", "C. Pound Sterling", "D. Yen"],
+        "answer": "C"
+    },
+    {
+        "question": "How many continents are there on Earth?",
+        "options": ["A. 5", "B. 6", "C. 7", "D. 8"],
+        "answer": "C"
+    },
+    {
+        "question": "What gas do plants absorb from the air?",
+        "options": ["A. Oxygen", "B. Nitrogen", "C. Carbon Dioxide", "D. Hydrogen"],
+        "answer": "C"
+    },
+    {
+        "question": "Which country invented pizza?",
+        "options": ["A. France", "B. Italy", "C. Greece", "D. Spain"],
+        "answer": "B"
+    },
+    {
+        "question": "What is the fastest land animal?",
+        "options": ["A. Lion", "B. Cheetah", "C. Horse", "D. Tiger"],
+        "answer": "B"
+    }
+
+]
+
