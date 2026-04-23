@@ -20,4 +20,5 @@ A command-line quiz game built with Python featuring a persistent leaderboard sy
    python main.py
 
 ## 🖥️ Preview
-![Quiz Game Screenshot](screenshot.png)
+![Quiz Game Screenshot](screenshot.png) 
+![Quiz Game Screenshot](screenshot1.png)
