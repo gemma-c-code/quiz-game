@@ -1,6 +1,5 @@
 # Quiz Game 🎮
-
-A command-line quiz game built in Python.
+A command-line quiz game built with Python featuring a persistent leaderboard system and replayable gameplay loop.
 
 ## Features
 - Multiple choice questions
@@ -10,12 +9,15 @@ A command-line quiz game built in Python.
 - Input validation
 - Replay option
 
-## Technologies
+## 🛠️ Tech Stack
 - Python
-- JSON (for storing questions)
-- File handling (for high score)
+- JSON 
+- File Handling
 
 ## How to Run
 1. Clone the repo
 2. Run:
    python main.py
+
+## 🖥️ Preview
+![Quiz Game Screenshot](screenshot.png)
